@@ -1,57 +1,39 @@
 
-# 📸 Kodak-studio Website
-Welcome to **Kodak studio**, a sleek and modern photography portfolio website built to showcase your visual art in a clean and captivating way. Whether you're a professional photographer or an enthusiastic hobbyist, this site is designed to present your work beautifully and help you connect with potential clients.
 
 ---
 
-## 🌟 Features
-- Home
-- Location
-- Services
-- Contact us
+# Kodak-Studio  
+#### A website which advertises our company to expose our quality pictures – since January 14, 2022  
+#### By **Sydney Osindi**
+
+## Description  
+Kodak-Studio is a photography website designed to showcase our company's professional-quality images. It allows users to view service pricing, make bookings, and send inquiries online. The platform targets users from various locations who are looking for quality photography services and a streamlined booking experience.
+
+## Setup/Installation Requirements  
+* Clone or download the repository  
+* Set up a database (MySQL recommended)  
+* Configure database connections in the code (if applicable)  
+* Host the HTML files on a server (e.g., Apache or any static site host)  
+* Ensure database tables are properly set up for booking and inquiry functionalities  
+
+> Leave nothing to chance! If you're deploying this, make sure your backend (if used) is secure and linked properly with the front-end forms.
+
+## Known Bugs  
+None at the moment.
+
+## Technologies Used  
+* HTML  
+> Kodak-Studio was built using pure HTML to create a clean and accessible layout. If extended in the future, other technologies (CSS, JS, backend services) can be integrated.
+
+## Support and Contact Details  
+For support or inquiries:  
+📞 WhatsApp: **0759970051**  
+📧 Email: **sydneyosindi03@gmail.com**
+
+Feel free to reach out for collaborations, suggestions, or technical issues.
+
+### License  
+*This application is licensed under the MIT LICENSE  
+Copyright (c) 2025 **Sydney Osindi**
 
 ---
-
-## 🛠️ Tech Stack
-
-- **Frontend**: HTML, CSS (Tailwind or Bootstrap), JavaScript
-- **Backend (optional)**: Node.js / Express or PHP (for contact form)
-- **Deployment**: Vercel, Netlify, or GitHub Pages
-
----
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/kodak-studio.git
-cd kodak-studio
-```
-
-Or just open the `index.html` in your browser for a static version.
-
----
-
-## ✨ Customization
-
-- Replace images in the `assets/images` folder.
-- Update text in `index.html`, `about.html`, etc.
-- Update styles in the `styles.css` file.
-- Configure social links and contact form in `config.js`.
-
----
-
-## 📬 Contact
-
-If you have questions, ideas, or would like to contribute, feel free to open an issue or reach out:
-
-sydneyosindi03@gmail.com📧 yourname@email.com  
-🌐 [yourphotographysite.com](http://yourphotographysite.com)
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
