@@ -19,11 +19,15 @@ Kodak-Studio is a photography website designed to showcase our company's profess
 > Leave nothing to chance! If you're deploying this, make sure your backend (if used) is secure and linked properly with the front-end forms.
 
 ## Known Bugs  
-None at the moment.
+There are current no know bugs in this version of the application
 
 ## Technologies Used  
-* HTML  
-> Kodak-Studio was built using pure HTML to create a clean and accessible layout. If extended in the future, other technologies (CSS, JS, backend services) can be integrated.
+* HTML 
+
+CSS
+
+markdown
+> Kodak-Studio was built using pure HTML to create a clean and accessible layout. If extended in the future, other technologies (CSS, markdown,) can be integrated
 
 ## Support and Contact Details  
 For support or inquiries:  
